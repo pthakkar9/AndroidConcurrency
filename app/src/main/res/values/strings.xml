@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadImageViewer</string>
+    <string name="download_image_activity">DownLoadImageActivity</string>
+    <string name="download_image">Download Image</string>
+    <string name="defaultURL">https://www.google.com/images/srpr/logo11w.png</string>
+    <string name="enter_url">Enter URL or download image from default URL</string>
+</resources>
